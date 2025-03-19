@@ -1,0 +1,75 @@
+,YEAR,TEAM NO_A,TEAM NO_B,Team1_Seed,Team2_Seed,Prediction1,Prediction2,Prob_T1_Wins_a,Prob_T1_Wins_b,Team1_Name,Team2_Name,Winner_Name
+0,2025,1141,1145,1.0,16.0,1,1.0,1,1.0,Auburn,Alabama St.,Auburn
+1,2025,1141,1099,1.0,16.0,1,1.0,1,1.0,Auburn,Saint Francis,Auburn
+2,2025,1119,1134,8.0,9.0,1,1.0,1,1.0,Louisville,Creighton,Louisville
+3,2025,1114,1089,5.0,12.0,1,1.0,1,1.0,Michigan,UC San Diego,Michigan
+4,2025,1092,1080,4.0,13.0,1,1.0,1,1.0,Texas A&M,Yale,Texas A&M
+5,2025,1112,1097,6.0,11.0,1,1.0,1,1.0,Mississippi,San Diego St.,Mississippi
+6,2025,1112,1104,6.0,11.0,1,1.0,1,1.0,Mississippi,North Carolina,Mississippi
+7,2025,1124,1120,3.0,14.0,1,1.0,1,1.0,Iowa St.,Lipscomb,Iowa St.
+8,2025,1118,1106,7.0,10.0,0,0.0,0,0.0,Marquette,New Mexico,New Mexico
+9,2025,1113,1139,2.0,15.0,1,1.0,1,1.0,Michigan St.,Bryant,Michigan St.
+10,2025,1131,1105,1.0,16.0,1,1.0,1,1.0,Florida,Norfolk St.,Florida
+11,2025,1135,1103,8.0,9.0,1,1.0,1,1.0,Connecticut,Oklahoma,Connecticut
+12,2025,1115,1136,12.0,5.0,0,0.0,0,0.0,Memphis,Colorado St.,Colorado St.
+13,2025,1117,1128,4.0,13.0,1,1.0,1,1.0,Maryland,Grand Canyon,Maryland
+14,2025,1110,1133,6.0,11.0,1,1.0,1,1.0,Missouri,Drake,Missouri
+15,2025,1091,1087,3.0,14.0,1,1.0,1,1.0,Texas Tech,UNC Wilmington,Texas Tech
+16,2025,1123,1142,7.0,10.0,1,1.0,1,1.0,Kansas,Arkansas,Kansas
+17,2025,1095,1107,2.0,15.0,1,1.0,1,1.0,St. John's,Nebraska Omaha,St. John's
+18,2025,1132,1144,1.0,16.0,1,1.0,1,1.0,Duke,American,Duke
+19,2025,1132,1108,1.0,16.0,1,1.0,1,1.0,Duke,Mount St. Mary's,Duke
+20,2025,1111,1140,9.0,8.0,0,1.0,0,1.0,Mississippi St.,Baylor,Baylor
+21,2025,1102,1121,5.0,12.0,0,1.0,0,1.0,Oregon,Liberty,Liberty
+22,2025,1143,1147,4.0,13.0,1,1.0,1,1.0,Arizona,Akron,Arizona
+23,2025,1138,1084,6.0,11.0,1,1.0,1,1.0,BYU,VCU,BYU
+24,2025,1083,1109,3.0,14.0,1,1.0,1,1.0,Wisconsin,Montana,Wisconsin
+25,2025,1098,1085,7.0,10.0,1,1.0,1,1.0,Saint Mary's,Vanderbilt,Saint Mary's
+26,2025,1146,1100,2.0,15.0,1,1.0,1,1.0,Alabama,Robert Morris,Alabama
+27,2025,1126,1096,1.0,16.0,1,1.0,1,1.0,Houston,SIU Edwardsville,Houston
+28,2025,1129,1130,8.0,9.0,1,1.0,1,1.0,Gonzaga,Georgia,Gonzaga
+29,2025,1137,1116,5.0,12.0,1,1.0,1,1.0,Clemson,McNeese St.,Clemson
+30,2025,1101,1127,4.0,13.0,1,1.0,1,1.0,Purdue,High Point,Purdue
+31,2025,1125,1093,6.0,11.0,0,0.0,0,0.0,Illinois,Texas,Texas
+32,2025,1125,1081,6.0,11.0,1,1.0,1,1.0,Illinois,Xavier,Illinois
+33,2025,1122,1090,3.0,14.0,1,1.0,1,1.0,Kentucky,Troy,Kentucky
+34,2025,1088,1086,7.0,10.0,0,0.0,0,0.0,UCLA,Utah St.,Utah St.
+35,2025,1094,1082,2.0,15.0,1,1.0,1,1.0,Tennessee,Wofford,Tennessee
+36,2025,1141,1119,1.0,8.0,1,1.0,1,1.0,Auburn,Louisville,Auburn
+37,2025,1141,1134,1.0,9.0,1,1.0,1,1.0,Auburn,Creighton,Auburn
+38,2025,1113,1118,2.0,7.0,1,1.0,1,1.0,Michigan St.,Marquette,Michigan St.
+39,2025,1113,1106,2.0,10.0,1,1.0,1,1.0,Michigan St.,New Mexico,Michigan St.
+40,2025,1124,1112,3.0,6.0,1,1.0,1,1.0,Iowa St.,Mississippi,Iowa St.
+41,2025,1124,1097,3.0,11.0,1,1.0,1,1.0,Iowa St.,San Diego St.,Iowa St.
+42,2025,1124,1104,3.0,11.0,1,1.0,1,1.0,Iowa St.,North Carolina,Iowa St.
+43,2025,1092,1114,4.0,5.0,0,0.0,0,0.0,Texas A&M,Michigan,Michigan
+44,2025,1131,1135,1.0,8.0,1,1.0,1,1.0,Florida,Connecticut,Florida
+45,2025,1131,1103,1.0,9.0,1,1.0,1,1.0,Florida,Oklahoma,Florida
+46,2025,1095,1123,2.0,7.0,1,1.0,1,1.0,St. John's,Kansas,St. John's
+47,2025,1095,1142,2.0,10.0,1,1.0,1,1.0,St. John's,Arkansas,St. John's
+48,2025,1091,1110,3.0,6.0,1,1.0,1,1.0,Texas Tech,Missouri,Texas Tech
+49,2025,1091,1133,3.0,11.0,1,1.0,1,1.0,Texas Tech,Drake,Texas Tech
+50,2025,1117,1115,4.0,5.0,1,1.0,1,1.0,Maryland,Memphis,Maryland
+51,2025,1132,1111,1.0,8.0,1,1.0,1,1.0,Duke,Mississippi St.,Duke
+52,2025,1132,1140,1.0,9.0,1,1.0,1,1.0,Duke,Baylor,Duke
+53,2025,1146,1098,2.0,7.0,1,0.0,1,0.0,Alabama,Saint Mary's,Alabama
+54,2025,1146,1085,2.0,10.0,1,1.0,1,1.0,Alabama,Vanderbilt,Alabama
+55,2025,1083,1138,3.0,6.0,1,1.0,1,1.0,Wisconsin,BYU,Wisconsin
+56,2025,1083,1084,3.0,11.0,1,1.0,1,1.0,Wisconsin,VCU,Wisconsin
+57,2025,1143,1102,4.0,5.0,1,1.0,1,1.0,Arizona,Oregon,Arizona
+58,2025,1126,1129,1.0,8.0,1,0.0,1,0.0,Houston,Gonzaga,Houston
+59,2025,1126,1130,1.0,9.0,1,1.0,1,1.0,Houston,Georgia,Houston
+60,2025,1094,1088,2.0,7.0,1,1.0,1,1.0,Tennessee,UCLA,Tennessee
+61,2025,1094,1086,2.0,10.0,1,1.0,1,1.0,Tennessee,Utah St.,Tennessee
+62,2025,1122,1125,3.0,6.0,1,0.0,1,0.0,Kentucky,Illinois,Kentucky
+63,2025,1122,1093,3.0,11.0,1,0.0,1,0.0,Kentucky,Texas,Kentucky
+64,2025,1122,1081,3.0,11.0,1,1.0,1,1.0,Kentucky,Xavier,Kentucky
+65,2025,1101,1137,4.0,5.0,0,0.0,0,0.0,Purdue,Clemson,Clemson
+66,2025,1141,1092,1.0,4.0,1,1.0,1,1.0,Auburn,Texas A&M,Auburn
+67,2025,1141,1114,1.0,5.0,1,1.0,1,1.0,Auburn,Michigan,Auburn
+68,2025,1131,1117,1.0,4.0,1,1.0,1,1.0,Florida,Maryland,Florida
+69,2025,1131,1115,1.0,5.0,1,1.0,1,1.0,Florida,Memphis,Florida
+70,2025,1132,1143,1.0,4.0,1,1.0,1,1.0,Duke,Arizona,Duke
+71,2025,1132,1102,1.0,5.0,1,1.0,1,1.0,Duke,Oregon,Duke
+72,2025,1126,1101,1.0,4.0,1,1.0,1,1.0,Houston,Purdue,Houston
+73,2025,1126,1137,1.0,5.0,1,1.0,1,1.0,Houston,Clemson,Houston
