@@ -40,7 +40,7 @@
 38,2025,1113,1118,2.0,7.0,1,1.0,1,1.0,Michigan St.,Marquette,Michigan St.
 39,2025,1113,1106,2.0,10.0,1,1.0,1,1.0,Michigan St.,New Mexico,Michigan St.
 40,2025,1124,1112,3.0,6.0,1,1.0,1,1.0,Iowa St.,Mississippi,Iowa St.
-41,2025,1124,1097,3.0,11.0,1,0.0,1,0.0,Iowa St.,San Diego St.,Iowa St.
+41,2025,1124,1097,3.0,11.0,1,0.0,1,0.0,Iowa St.,San Diego St.,San Diego St.
 42,2025,1124,1104,3.0,11.0,0,0.0,0,0.0,Iowa St.,North Carolina,North Carolina
 43,2025,1092,1114,4.0,5.0,1,1.0,1,1.0,Texas A&M,Michigan,Texas A&M
 44,2025,1131,1135,1.0,8.0,1,1.0,1,1.0,Florida,Connecticut,Florida
@@ -52,14 +52,14 @@
 50,2025,1117,1115,4.0,5.0,1,1.0,1,1.0,Maryland,Memphis,Maryland
 51,2025,1132,1111,1.0,8.0,1,1.0,1,1.0,Duke,Mississippi St.,Duke
 52,2025,1132,1140,1.0,9.0,1,1.0,1,1.0,Duke,Baylor,Duke
-53,2025,1146,1098,2.0,7.0,1,0.0,1,0.0,Alabama,Saint Mary's,Alabama
+53,2025,1146,1098,2.0,7.0,1,0.0,1,0.0,Alabama,Saint Mary's,Saint Mary's
 54,2025,1146,1085,2.0,10.0,1,1.0,1,1.0,Alabama,Vanderbilt,Alabama
-55,2025,1083,1138,3.0,6.0,1,0.0,1,0.0,Wisconsin,BYU,Wisconsin
+55,2025,1083,1138,3.0,6.0,1,0.0,1,0.0,Wisconsin,BYU,BYU
 56,2025,1083,1084,3.0,11.0,1,1.0,1,1.0,Wisconsin,VCU,Wisconsin
 57,2025,1143,1102,4.0,5.0,1,1.0,1,1.0,Arizona,Oregon,Arizona
 58,2025,1126,1129,1.0,8.0,1,1.0,1,1.0,Houston,Gonzaga,Houston
 59,2025,1126,1130,1.0,9.0,1,1.0,1,1.0,Houston,Georgia,Houston
-60,2025,1094,1088,2.0,7.0,1,0.0,1,0.0,Tennessee,UCLA,Tennessee
+60,2025,1094,1088,2.0,7.0,1,0.0,1,0.0,Tennessee,UCLA,UCLA
 61,2025,1094,1086,2.0,10.0,1,1.0,1,1.0,Tennessee,Utah St.,Tennessee
 62,2025,1122,1125,3.0,6.0,1,1.0,1,1.0,Kentucky,Illinois,Kentucky
 63,2025,1122,1093,3.0,11.0,1,1.0,1,1.0,Kentucky,Texas,Kentucky
