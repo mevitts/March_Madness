@@ -1,0 +1,75 @@
+
+64:
+Game 1: Duke vs Mount St. Mary's -> Winner: Duke
+Game 2: Mississippi St. vs Baylor -> Winner: Baylor
+Game 3: Oregon vs Liberty -> Winner: Liberty
+Game 4: Arizona vs Akron -> Winner: Arizona
+Game 5: BYU vs VCU -> Winner: VCU
+Game 6: Wisconsin vs Montana -> Winner: Wisconsin
+Game 7: Saint Mary's vs Vanderbilt -> Winner: Saint Mary's
+Game 8: Alabama vs Robert Morris -> Winner: Alabama
+Game 9: Auburn vs Alabama St. -> Winner: Auburn
+Game 10: Louisville vs Creighton -> Winner: Louisville
+Game 11: Michigan vs UC San Diego -> Winner: UC San Diego
+Game 12: Texas A&M vs Yale -> Winner: Yale
+Game 13: Mississippi vs North Carolina -> Winner: Mississippi
+Game 14: Iowa St. vs Lipscomb -> Winner: Iowa St.
+Game 15: Marquette vs New Mexico -> Winner: Marquette
+Game 16: Michigan St. vs Bryant -> Winner: Michigan St.
+Game 17: Florida vs Norfolk St. -> Winner: Florida
+Game 18: Connecticut vs Oklahoma -> Winner: Connecticut
+Game 19: Memphis vs Colorado St. -> Winner: Colorado St.
+Game 20: Maryland vs Grand Canyon -> Winner: Maryland
+Game 21: Missouri vs Drake -> Winner: Drake
+Game 22: Texas Tech vs UNC Wilmington -> Winner: Texas Tech
+Game 23: Kansas vs Arkansas -> Winner: Kansas
+Game 24: St. John's vs Nebraska Omaha -> Winner: St. John's
+Game 25: Houston vs SIU Edwardsville -> Winner: Houston
+Game 26: Gonzaga vs Georgia -> Winner: Gonzaga
+Game 27: Clemson vs McNeese St. -> Winner: Clemson
+Game 28: Purdue vs High Point -> Winner: Purdue
+Game 29: Illinois vs Texas -> Winner: Illinois
+Game 30: Kentucky vs Troy -> Winner: Troy
+Game 31: UCLA vs Utah St. -> Winner: UCLA
+Game 32: Tennessee vs Wofford -> Winner: Tennessee
+
+32:
+Game 1: Duke vs Baylor -> Winner: Duke
+Game 2: Arizona vs Liberty -> Winner: Arizona
+Game 3: Wisconsin vs VCU -> Winner: Wisconsin
+Game 4: Alabama vs Saint Mary's -> Winner: Saint Mary's
+Game 5: Auburn vs Louisville -> Winner: Auburn
+Game 6: UC San Diego vs Yale -> Winner: UC San Diego
+Game 7: Iowa St. vs Mississippi -> Winner: Iowa St.
+Game 8: Michigan St. vs Marquette -> Winner: Michigan St.
+Game 9: Florida vs Connecticut -> Winner: Florida
+Game 10: Maryland vs Colorado St. -> Winner: Maryland
+Game 11: Texas Tech vs Drake -> Winner: Texas Tech
+Game 12: St. John's vs Kansas -> Winner: St. John's
+Game 13: Houston vs Gonzaga -> Winner: Gonzaga
+Game 14: Purdue vs Clemson -> Winner: Purdue
+Game 15: Illinois vs Troy -> Winner: Illinois
+Game 16: Tennessee vs UCLA -> Winner: UCLA
+
+16:
+Game 1: Duke vs Arizona -> Winner: Duke
+Game 2: Wisconsin vs Saint Mary's -> Winner: Wisconsin
+Game 3: Auburn vs UC San Diego -> Winner: Auburn
+Game 4: Iowa St. vs Michigan St. -> Winner: Michigan St.
+Game 5: Florida vs Maryland -> Winner: Florida
+Game 6: Texas Tech vs St. John's -> Winner: Texas Tech
+Game 7: Gonzaga vs Purdue -> Winner: Gonzaga
+Game 8: Illinois vs UCLA -> Winner: UCLA
+
+8:
+Game 1: Duke vs Wisconsin -> Winner: Duke
+Game 2: Auburn vs Michigan St. -> Winner: Michigan St.
+Game 3: Florida vs Texas Tech -> Winner: Florida
+Game 4: Gonzaga vs UCLA -> Winner: Gonzaga
+
+4:
+Game 1: Duke vs Michigan St. -> Winner: Duke
+Game 2: Florida vs Gonzaga -> Winner: Florida
+
+2:
+Game 1: Duke vs Florida -> Winner: Duke
