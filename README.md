@@ -38,7 +38,8 @@ The Gradient Boosting Random Forest Classifier achieved .7833 accuracy and .5288
 The baseline for March Madness predictors fall around .76 accuracy and .5 log loss.
 
 ## Future
-Results for the 2025 predictions will be updated as the tournament progresses, and hopefully they end up successful!
+Detailed results for the 2025 predictions can be found [here](mm_report.md).
+
 In the future some possible extensions would be to engineer even better data using more advanced metrics, or even using different predictive models, such as ratings on evanmiya.com, the heatcheckcbb.com Tournament Index, and much more. Also, creating further prediction visuals such as a full bracket instead of a .txt file would increase overall visibility and ease of use for users.
 
 ## LICENSE
